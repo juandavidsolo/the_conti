@@ -1,8 +1,8 @@
 # the_conti
 # git commands
-# git config --global user.name "GeeksforGeeks"
-# git config --global user.email "GFGexample@gmail.orgg"
-# git config --global user.password "1234321"
+# git config --global user.name "username"
+# git config --global user.email "email"
+# git config --global user.password "password"
 # git config --global credential.helper store
 # git config --list --show-origin
 
