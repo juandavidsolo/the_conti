@@ -18,3 +18,6 @@
 # git add .
 # git commit -m "message"
 # git push
+
+# retrieving updated files
+# git fetch
